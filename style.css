@@ -1,0 +1,40 @@
+ .text{
+    color: #fff;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx xx-large;
+    background-color: rgb(36, 36, 150);
+    font-weight: 100px;
+    
+    
+}
+.first{
+    
+    text-align: center;
+}
+
+.first img{
+    border-radius: 100px;
+}
+.Disan{
+    width: 100%;
+    height: 90px;
+    background-color: gray;
+}
+
+.rose{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+}
+
+.second{
+    width: 100%;
+    height: 150px;
+    background-color: gray;
+}
+.roy{
+    width: 100%;
+    height:100px;
+    background-color: gray;
+}
